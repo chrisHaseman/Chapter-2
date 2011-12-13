@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="new_activity_text">Welcome to the New Activity!</string>
+    <string name="hello">Hello World, MyActivity!</string>
+    <string name="app_name">IntroApplication</string>
+    <string name="airplane_change">Airplane Mode has Changed!</string>
+</resources>
